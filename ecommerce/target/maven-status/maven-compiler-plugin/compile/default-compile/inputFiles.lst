@@ -1,0 +1,17 @@
+/workspace/ecommerce/src/main/java/com/example/ecommerce/EcommerceApplication.java
+/workspace/ecommerce/src/main/java/com/example/ecommerce/config/DataSeeder.java
+/workspace/ecommerce/src/main/java/com/example/ecommerce/controller/CategoryController.java
+/workspace/ecommerce/src/main/java/com/example/ecommerce/controller/CustomerController.java
+/workspace/ecommerce/src/main/java/com/example/ecommerce/controller/OrderController.java
+/workspace/ecommerce/src/main/java/com/example/ecommerce/controller/ProductController.java
+/workspace/ecommerce/src/main/java/com/example/ecommerce/domain/Category.java
+/workspace/ecommerce/src/main/java/com/example/ecommerce/domain/Customer.java
+/workspace/ecommerce/src/main/java/com/example/ecommerce/domain/Order.java
+/workspace/ecommerce/src/main/java/com/example/ecommerce/domain/OrderItem.java
+/workspace/ecommerce/src/main/java/com/example/ecommerce/domain/Product.java
+/workspace/ecommerce/src/main/java/com/example/ecommerce/repository/CategoryRepository.java
+/workspace/ecommerce/src/main/java/com/example/ecommerce/repository/CustomerRepository.java
+/workspace/ecommerce/src/main/java/com/example/ecommerce/repository/OrderRepository.java
+/workspace/ecommerce/src/main/java/com/example/ecommerce/repository/ProductRepository.java
+/workspace/ecommerce/src/main/java/com/example/ecommerce/service/OrderService.java
+/workspace/ecommerce/src/main/java/com/example/ecommerce/service/ProductService.java
