@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akomezoa0325
+- 👋 Hi, I’m @joker212412
 - 👀 I’m interested in web development, artificial intelligence, and open-source projects.
 - 🌱 I’m currently learning Python and exploring machine learning techniques.
 - 💞️ I’m looking to collaborate on innovative tech projects and contribute to community-driven initiatives.
